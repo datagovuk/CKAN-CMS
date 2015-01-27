@@ -16,7 +16,6 @@ dependencies[] = taxonomy
 dependencies[] = search
 dependencies[] = field_ui
 dependencies[] = file
-dependencies[] = overlay
 dependencies[] = rdf
 dependencies[] = contact
 
