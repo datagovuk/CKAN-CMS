@@ -1,5 +1,5 @@
-name = ckan_cms
-description = CKAN CMS
+name = CKAN CMS
+description = CKAN integration
 core = 7.x
 
 dependencies[] = block
